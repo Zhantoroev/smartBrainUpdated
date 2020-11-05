@@ -4,7 +4,7 @@
 <img src="https://github.com/Zhantoroev/smartBrainUpdated/blob/master/images/img1.png" width="450" />
 <img src="https://github.com/Zhantoroev/smartBrainUpdated/blob/master/images/img2.png" width="450" />
 <img src="https://github.com/Zhantoroev/smartBrainUpdated/blob/master/images/imgS.png" width="450" />
-<img src="https://github.com/zhantoroev/smartbrainbpdated/blob/master/images/imgR.png" width="450" />
+<img src="https://github.com/Zhantoroev/smartBrainUpdated/blob/master/images/imgR.png" width="450" />
 
 
 ------------------------------------------------
