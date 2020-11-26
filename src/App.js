@@ -130,7 +130,7 @@ class App extends Component {
                     <Modal.Header>About Me</Modal.Header>
                     <Modal.Body>
                     <p>Hi, my name is Syimyk Zhantoroev.<br></br>
-                    I'm the Web Developer and student at AIU.</p>
+                    I'm a Web Developer and student at AIU.</p>
                     </Modal.Body>
                     <Modal.Footer>
                       <Button onClick={() =>{this.handleModal()}}>
